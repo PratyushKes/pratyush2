@@ -102,7 +102,7 @@
                     responsible approach to any task that I undertake or a situation that I am presented with. Persuing my graduation in
                      computer science , I love to learn different computer languages. My greatest passion in life is using my technical
                       know-how to benefit other people and  organisations</h4>
-                    <a href="#" class="myButton">Click here</a>  
+                    <a href="#" class="myButton">Know more</a>  
                 </div>
             </div>
         </div>
